@@ -1,0 +1,8 @@
+[user]
+	name = Hari Santhanaraghavan
+	email = santhanarh@gmail.com
+[credential]
+	helper = cache
+	gelper = cache --timeout=36000
+[push]
+	default = matching
